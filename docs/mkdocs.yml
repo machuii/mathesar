@@ -2,7 +2,7 @@ site_name: Mathesar Documentation
 site_url: https://docs.mathesar.org/
 repo_url: https://github.com/centerofci/mathesar/
 repo_name: centerofci/mathesar
-yo whats up
+
 theme:
   name: material
   logo: assets/images/logo.svg
